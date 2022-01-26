@@ -12,4 +12,5 @@ The domain of digital marketing is used to build the corpus. Including domain-sp
 
 ## Implemented Spelling Checker System
 
-<video src='https://github.com/lam771994/Spelling_Checker_System/blob/main/images/Spellchecker_System.mp4' width=180/>
+Uploading NLP_Demonstration.mov…
+
